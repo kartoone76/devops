@@ -13,3 +13,7 @@ def weather(fahr):
         print("it's nice outside")
     else:
         print("it's hot outside")
+
+        
+def quad(n):
+    return n*n*n*n
