@@ -16,4 +16,4 @@ def weather(fahr):
 
         
 def quad(n):
-    return n*n*n*
+    return n*n*n*n
